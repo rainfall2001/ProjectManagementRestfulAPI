@@ -1,3 +1,5 @@
+This project is used in conjuction with the ProjectManagementApplication
+
 # Getting Started with Create React App
 
 ## Available Scripts
